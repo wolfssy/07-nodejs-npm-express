@@ -1,0 +1,19 @@
+{
+  "name": "brandon-ron",
+  "version": "1.0.0",
+  "description": "07 lab work paired",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "keywords": [
+    "07",
+    "lab"
+  ],
+  "author": "Brandon and Ron",
+  "license": "MIT",
+  "dependencies": {
+    "express": "^4.15.4"
+  }
+}
