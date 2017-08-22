@@ -1,0 +1,24 @@
+{
+  "name": "brandon-ron",
+  "version": "1.0.0",
+  "description": "07 lab work paired",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://github.com/wolfssy/07-nodejs-npm-express.git"
+  },
+  "keywords": [
+    "07",
+    "lab"
+  ],
+  "author": "Brandon and Ron",
+  "license": "MIT",
+  "dependencies": {
+    "body-parser": "^1.17.2",
+    "express": "^4.15.4"
+  }
+}
